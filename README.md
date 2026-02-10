@@ -51,6 +51,7 @@ Other Chromium artifacts (Downloads, Login Data, Cookies, Bookmarks, etc.) are *
 
 ```bash
 python chromium_history_parser.py /path/to/History -o output.csv
+```
 
 ## Disclaimer
 
